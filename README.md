@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krisztián Németh
 
-I'm a senior .NET developer with over 5 years of experience building scalable and maintainable SaaS platforms using **ASP.NET Core** and **Orchard Core**. My work focuses on designing modular, extensible backend systems that support long-term product growth.
+I'm a senior .NET developer with over 5 years of experience building scalable and maintainable platforms using **ASP.NET Core** and **Orchard Core**. My work focuses on designing modular, extensible backend systems that support long-term product growth.
 
 - 🔧 Backend Development: ASP.NET Core, C#, Orchard Core
 - 🌐 Full-Stack Collaboration: Comfortable working across the stack when needed
