@@ -13,6 +13,7 @@ I'm a senior .NET developer with over 5 years of experience building scalable an
 
 I'm actively contributing to open source, especially around the Orchard Core ecosystem:
 
+- [eInvoice-Validator](https://github.com/Lombiq/eInvoice-Validator) - Created most of the logic for EN16931 CII and UBL validation.
 - [Orchard Core Commerce](https://github.com/OrchardCMS/OrchardCore.Commerce) – Contributions to Orchard Core’s official commerce module.
 - [Hosting Tenants](https://github.com/Lombiq/Hosting-Tenants) – Enhancements for multitenant Orchard Core setups.
 - [UI Testing Toolbox](https://github.com/Lombiq/UI-Testing-Toolbox) – Selenium-based UI testing framework tailored for Orchard Core.
